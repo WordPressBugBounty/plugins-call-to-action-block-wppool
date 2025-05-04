@@ -2,9 +2,9 @@
 Contributors: wppool, azizultex, shahreyar46, foysalremon
 Tags: call-to-action, gutenberg, block, cta, button
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.8
 Requires PHP: 5.4
-Stable tag: 2.1.1
+Stable tag: 2.1.2
 License: GPL-2.0+
 Lisecse URL: http://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -63,6 +63,9 @@ If you like Call to Action Block, then consider checking out our other awesome p
 💹 **[Stock Sync with Google Sheets for WooCommerce](https://wordpress.org/plugins/stock-sync-with-google-sheet-for-woocommerce/)** - Auto-sync WooCommerce products from Google Sheets. An easy and powerful solution for WooCommerce inventory management, stock management, and bulk edit.
 
 == Changelog ==
+
+= 2.1.2 - 04 May 2025 =
+- Improvement: Enhanced compatibility to support WordPress 6.8
 
 = 2.1.1 - 12 DEC 2023 =
 - Improvement: Enhanced compatibility to support WordPress 6.4.2

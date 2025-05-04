@@ -3,14 +3,14 @@
  * Plugin Name:       Call to Action Block - WPPOOL
  * Plugin URI:        https://block-cta.wppool.dev/
  * Description:       Call to action WordPress gutenberg block with extended customization and flexible setting options
- * Version:           2.1.1
+ * Version:           2.1.2
  * Author:            WPPOOL
  * Author URI:        https://wppool.dev
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       cta-gutenberg
  * Requires at least: 5.0
- * Tested up to:      6.3
+ * Tested up to:      6.8
  *
  * CTAGutenberg Blocks
  *
@@ -22,7 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'CTAGB_VERSION', '2.1.1' );
+define( 'CTAGB_VERSION', '2.1.2' );
 define( 'CTAGB__FILE__', __FILE__ );
 define( 'CTAGB_DIR_PATH', plugin_dir_path( CTAGB__FILE__ ) );
 define( 'CTAGB_FILE_PATH', plugin_dir_path( __FILE__ ) );
