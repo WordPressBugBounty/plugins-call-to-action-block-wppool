@@ -1,17 +1,17 @@
-=== Call to Action Block - WPPOOL ===
+=== Call to Action Block by WPPOOL ===
 Contributors: wppool, azizultex, shahreyar46, foysalremon
 Tags: call-to-action, gutenberg, block, cta, button
 Requires at least: 5.0
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.4
-Stable tag: 2.1.2
+Stable tag: 2.1.3
 License: GPL-2.0+
 Lisecse URL: http://www.gnu.org/licenses/gpl-2.0.txt
 
 Add a stunning call to action (CTA) block to your WordPress post or page using 10+ prebuilt call to action layouts for Gutenberg.
 
 == Description ==
-A fully featured Gutenberg block plugin which have call to action block with extended customization support and great design. It currently have 10+ seperate call to action layouts along with options for background color, image and gradient. 
+A fully featured Gutenberg block plugin that has a call to action block with extended customization support and great design. It currently has 10+ separate call to action layouts along with options for background color, image, and gradient. 
 
 [youtube https://www.youtube.com/watch?v=cSxGaPWfPCQ]
 
@@ -56,13 +56,16 @@ If you like Call to Action Block, then consider checking out our other awesome p
 
 🔄 **[Sheets To WP Table Live Sync](https://wordpress.org/plugins/sheets-to-wp-table-live-sync/)**  - Quick. Easy. Simple. Keep your Google Spreadsheet data always synced LIVE with the WordPress table. Responsive data tables with as many data you want to display - Sheets to WP Table Live Sync plugin got it all!
 
-🎥 **[Webinar & Video Conference with Jitsi Meet](https://wordpress.org/plugins/webinar-and-video-conference-with-jitsi-meet/)**  - Experience the best WordPress video conference plugin and live video chat solution. Get shortcode support with WooCommerce and BuddyPress integration.
+🎥 **[Webinar & Video Conference with Jitsi Meet](https://wordpress.org/plugins/webinar-and-video-conference-with-jitsi-meet/)**  - Experience WordPress video conference plugin and live video chat solution. Get shortcode support with WooCommerce and BuddyPress integration.
 
-👍 **[Easy Video Reviews](https://wordpress.org/plugins/easy-video-reviews/)**  - Easy Video Reviews is the best and easiest video review plugin for WordPress. Your customers can record and send video testimonials right from their browser, and you can manage and showcase anywhere on your WordPress website.
+👍 **[Easy Video Reviews](https://wordpress.org/plugins/easy-video-reviews/)**  - Easy Video Reviews is a user-friendly video review plugin for WordPress. Your customers can record and send video testimonials right from their browser, and you can manage and showcase anywhere on your WordPress website.
 
 💹 **[Stock Sync with Google Sheets for WooCommerce](https://wordpress.org/plugins/stock-sync-with-google-sheet-for-woocommerce/)** - Auto-sync WooCommerce products from Google Sheets. An easy and powerful solution for WooCommerce inventory management, stock management, and bulk edit.
 
 == Changelog ==
+
+= 2.1.3 - 09 Dec 2025 =
+- Improvement: Enhanced compatibility to support WordPress 6.9
 
 = 2.1.2 - 04 May 2025 =
 - Improvement: Enhanced compatibility to support WordPress 6.8
